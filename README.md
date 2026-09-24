@@ -58,6 +58,7 @@ The system uses five main classes and three enumerations.
 
 ## Project Structure
 
+```text
 public-bus-ticket-booking-system/
 ├── src/
 │   ├── Main.java
@@ -89,6 +90,7 @@ public-bus-ticket-booking-system/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Technologies
 
